@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  margin: 5px;
+  padding: 0;
+}
+
+.modal-header,
+.pagination {
+  justify-content: center !important;
+}
+
+.card-footer {
+  background-color: white !important;
+  border: none !important;
+}
+
+.paginator {
+  padding: 10px 0 30px;
+}
